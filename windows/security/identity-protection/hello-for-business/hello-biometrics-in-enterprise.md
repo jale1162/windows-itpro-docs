@@ -22,6 +22,7 @@ ms.date: 01/12/2021
 
 **Applies to:**
 -   Windows 10
+-   Windows 10 Pro
 
 Windows Hello is the biometric authentication feature that helps strengthen authentication and helps to guard against potential spoofing through fingerprint matching and facial recognition.
 
